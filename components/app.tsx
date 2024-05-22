@@ -74,10 +74,7 @@ export function App() {
 
         <div className="text-center">
 
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Si mañana fuera el último día yo</h1>
-
-          <p className="mt-4 text-gray-500 dark:text-gray-400">Escribe lo que harías si mañana fuera el último día.</p>
-
+          <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Si mañana fuera el último día yo...</h1>
         </div>
 
         <div className="space-y-4">
@@ -96,7 +93,7 @@ export function App() {
 
           />
 
-          <div className="flex justify-between items-center">
+          <div className="flex  items-center">
 
             <Button
 
@@ -110,7 +107,6 @@ export function App() {
 
             </Button>
 
-            <div className="text-gray-500 dark:text-gray-400 text-sm">Recuerda, mañana puede ser el último día.</div>
 
           </div>
 
