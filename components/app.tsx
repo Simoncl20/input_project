@@ -74,7 +74,7 @@ export function App() {
 
         <div className="text-center">
 
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Si mañana fuera el último día yo...</h1>
+          <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Si mañana fuera el último día, yo...</h1>
         </div>
 
         <div className="space-y-4">
